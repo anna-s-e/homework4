@@ -7,7 +7,6 @@ public class Main {
         } else {
             System.out.println("Тебе " + age + " лет. Ты еще не достиг совершенолетия. Нужно немного подождать");
         }
-        ;
         System.out.println("Задание 2");
         int temperatureDegrees = 5;
         if (temperatureDegrees > 5) {
@@ -15,7 +14,6 @@ public class Main {
         } else {
             System.out.println("На улице " + temperatureDegrees + " градусов. Холодно. Нужно надеть шапку");
         }
-
         System.out.println("Задание 3");
         int vehicleSpeed = 61;
         if (vehicleSpeed > 60) {
